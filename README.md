@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=longweiqiang&show_icons=true&count_private=true&hide_border=true&cache_seconds=1900"/>
+
+### 👨‍🚒 About me
+
+- 🔭 我的职业是一名软件测试工程师
+- 💬 目前就职于一家互联网电商企业
+- 📫 我也正在学习Python及前端知识
+
+### 🔥 Project
+
+- 🔰 [`时光走散了故人`](https://www.cnblogs.com/longweiqiang) My Blog.
+- 🌱 [`网易云音乐任务栏控件`](https://github.com/longweiqiang/MediaCtrl)
+- 📃 [`python-apollo客户端封装`](https://github.com/longweiqiang/py_openapi_apollo_client)...
